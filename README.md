@@ -1,3 +1,4 @@
+![Alt text](/path/to/img.jpg)
 # Travel
 旅遊預訂系統 (Travel Booking System)
 
