@@ -1,4 +1,3 @@
-![Alt text][id]
 # Travel
 旅遊預訂系統 (Travel Booking System)
 
